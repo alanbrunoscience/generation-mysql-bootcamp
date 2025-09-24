@@ -7,15 +7,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/github/languages/top/alanbrunoscience/generation-mysql-bootcamp?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/alanbrunoscience/generation-mysql-bootcamp?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/alanbrunoscience/generation-mysql-bootcamp?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/alanbrunoscience/generation-mysql-bootcamp?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/alanbrunoscience/generation-mysql-bootcamp?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/alanbrunoscience/generation-mysql-bootcamp?style=flat-square" />
-</div>
-
 ---
 
 ## 📖 About  
