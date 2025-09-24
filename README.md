@@ -5,8 +5,6 @@
 
 <h1 align="center">📚 SQL & MySQL Study Repository</h1>
 
----
-
 ## 📖 About  
 This repository was created to store **SQL sample code examples** for learning and practice.  
 Here you’ll find content related to:
