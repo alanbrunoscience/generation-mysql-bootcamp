@@ -5,6 +5,8 @@
 
 <h1 align="center">📚 SQL & MySQL Study Repository</h1>
 
+<br />
+
 ---
 
 ## 📖 About  
@@ -36,4 +38,4 @@ For questions, suggestions, or collaborations, feel free to reach out via:
 - 🌐 [GitHub Issues](../../issues)  
 
 ---
-### ✨ *Happy coding and querying!* ✨
+✨ ***Happy coding and querying!*** ✨
