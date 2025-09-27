@@ -181,6 +181,3 @@ DESC tb_products;
 
 -- Discover Database Collation
 SELECT @@collation_database;
-
-
-teste
